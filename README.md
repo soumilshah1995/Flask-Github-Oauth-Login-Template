@@ -4,7 +4,7 @@
 
 <img width="827" alt="Screen Shot 2019-12-20 at 1 46 29 PM" src="https://user-images.githubusercontent.com/39345855/71283856-5c779f80-232f-11ea-86ea-8a7b87a3b03d.png">
 
-Youtube Video : 
+* Youtube Video : https://youtu.be/B_zCrPZxSuQ
 
 
 
